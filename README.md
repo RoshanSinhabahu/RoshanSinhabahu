@@ -6,6 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/roshansinhabahu" target="blank"><img src="https://img.shields.io/twitter/follow/roshansinhabahu?logo=twitter&style=for-the-badge" alt="roshansinhabahu" /></a> </p>
 
+- 🌱 I’m currently learning **Web developing & Computer Programming.**
+
+- 💬 Ask me about **C++, HTML5, CSS, JavaScript.**
+
 - 📝 I regularly write articles on [https://medium.com/@roshansinhabahu](https://medium.com/@roshansinhabahu)
 
 - 📫 How to reach me **roshansinhabahu@gmail.com**
