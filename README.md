@@ -4,24 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansinhabahu&label=Profile%20views&color=b40e5e&style=flat" alt="roshansinhabahu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/roshansinhabahu" target="blank"><img src="https://img.shields.io/twitter/follow/roshansinhabahu?logo=twitter&style=for-the-badge" alt="roshansinhabahu" /></a> </p>
-
-- 🌱 I’m currently learning **Web developing & Computer Programming.**
-
 - 💬 Ask me about **C++, HTML5, CSS, JavaScript.**
-
-- 📝 I regularly write articles on [https://medium.com/@roshansinhabahu](https://medium.com/@roshansinhabahu)
 
 - 📫 How to reach me **roshansinhabahu@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshansinhabahu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshansinhabahu" height="30" width="40" /></a>
-<a href="https://fb.com/roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshan sinhabahu" height="30" width="40" /></a>
-<a href="https://instagram.com/roshan_sinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshansinhabahu" height="30" width="40" /></a>
-<a href="https://medium.com/@roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roshansinhabahu" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,6 +19,12 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshansinhabahu" height="30" width="40" /></a>
+<a href="https://fb.com/roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshan sinhabahu" height="30" width="40" /></a>
+<a href="https://medium.com/@roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roshansinhabahu" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansinhabahu&show_icons=true&locale=en&layout=compact" alt="roshansinhabahu" /></p>
