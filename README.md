@@ -27,8 +27,5 @@
 <a href="https://medium.com/@roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roshansinhabahu" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansinhabahu&show_icons=true&locale=en&layout=compact" alt="roshansinhabahu" /></p>
+<center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansinhabahu&show_icons=true&locale=en&layout=compact" alt="roshansinhabahu"></center>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshansinhabahu&show_icons=true&locale=en" alt="roshansinhabahu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshansinhabahu&" alt="roshansinhabahu" /></p>
