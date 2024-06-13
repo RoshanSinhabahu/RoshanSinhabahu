@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm ROSHAN</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansinhabahu&label=Profile%20views&color=b40e5e&style=flat" alt="roshansinhabahu" /> </p>
+<p align="left"> <ig src="https://komarev.com/ghpvc/?username=roshansinhabahu&label=Profile%20views&color=b40e5e&style=flat" alt="roshansinhabahu" /> </p>
 
 - 💬 Ask me about **C++, HTML5, CSS, JavaScript.**
 
@@ -27,5 +27,5 @@
 <a href="https://medium.com/@roshansinhabahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roshansinhabahu" height="30" width="40" /></a>
 </p>
 
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansinhabahu&show_icons=true&locale=en&layout=compact" alt="roshansinhabahu"></center>
+<img style="margin-left:auto;margin-right:auto;display:block" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshansinhabahu&show_icons=true&locale=en&layout=compact" alt="roshansinhabahu">
 
