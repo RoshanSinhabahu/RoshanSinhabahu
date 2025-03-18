@@ -4,7 +4,7 @@
 
 <p align="left"> <ig src="https://komarev.com/ghpvc/?username=roshansinhabahu&label=Profile%20views&color=b40e5e&style=flat" alt="roshansinhabahu" /> </p>
 
-- 💬 Ask me about **C++, HTML5, CSS, JavaScript.**
+- 🌱 I'm currently learning  **Flutter.**
 
 - 📫 How to reach me **roshansinhabahu@gmail.com**
 
