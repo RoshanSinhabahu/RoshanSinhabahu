@@ -4,7 +4,7 @@
 
 <p align="left"> <ig src="https://komarev.com/ghpvc/?username=roshansinhabahu&label=Profile%20views&color=b40e5e&style=flat" alt="roshansinhabahu" /> </p>
 
-- 🌱 I'm currently learning  **Flutter.**
+- 🌱 I'm currently learning  **React.**
 
 - 📫 How to reach me **roshansinhabahu@gmail.com**
 
@@ -12,6 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
